@@ -1,7 +1,18 @@
 # Auto-GCAS
 
-This study is prepared for the completion of my undergraduate studies at Istanbul Medipol University, Department of Management Information Systems. This study investigates the development and implementation of Auto-GCAS on HÜRJET in order to increase pilot safety in the aviation industry and to promote progress in the Turkish aviation industry.
+This study was prepared for the completion of my undergraduate studies at **Istanbul Medipol University**, Department of **Management Information Systems**. The research investigates the development and implementation of **Auto-GCAS** on the **HÜRJET** aircraft to enhance pilot safety in the aviation industry and promote progress in the Turkish aviation sector.
 
-Supported by the Turkish Aerospace Lift Up industry-oriented bachelor dissertation program, this study focuses on the development of the Auto-GCAS, which is designed to detect and prevent collisions with natural or man-made obstacles such as mountains or buildings when the aircraft, under the pilot's control, is in a situation unknown to the pilot. Preventing accidents resulting from hazardous situations unnoticed by the pilot is of paramount importance to ensure the safety of both pilots and aircraft. The development of Auto-GCAS aims to prevent events such as CFIT and reduce pilot losses. It is known that the Auto-GCAS algorithm and controller design, currently implemented in F-16s, have also been integrated into F-22 and F-35 aircraft. Incorporation of the Auto-GCAS into the HÜRJET, a turbofan-powered, advanced jet training, and close air support aircraft being developed by Turkish Aerospace is intended to enhance safety standards in the Turkish aviation industry. Through simulation-based development and modeling, HÜRJET pilots will be able to benefit from a system that automatically intervenes when they encounter hazardous situations.
+Supported by the **Turkish Aerospace Lift Up** industry-oriented bachelor dissertation program, this study focuses on the development of **Auto-GCAS** (Automatic Ground Collision Avoidance System). The system is designed to detect and prevent collisions with natural or man-made obstacles, such as mountains or buildings, when the aircraft, under the pilot's control, enters an unforeseen situation. Preventing accidents caused by hazardous situations that go unnoticed by the pilot is crucial to ensure the safety of both pilots and aircraft.
 
-The Python script 'run_GCAS_anim3d.py', essential for executing the simulation and obtaining outputs, has been uploaded. The academic paper authored and published by Turkish Aerospace Industries has been made available and uploaded. Due to confidentiality agreements with Turkish Aerospace Industries, the complete simulation has not been publicly disclosed. Furthermore, in adherence to data protection protocols safeguarding personal information, the thesis document of my undergraduate studies at Istanbul Medipol University, Department of Management Information Systems itself has not been uploaded.
+The development of **Auto-GCAS** aims to prevent events such as **CFIT (Controlled Flight Into Terrain)** and reduce pilot casualties. The Auto-GCAS algorithm and controller, currently implemented in **F-16** aircraft, have been integrated into the **F-22** and **F-35** as well. Incorporating Auto-GCAS into the **HÜRJET**, a turbofan-powered advanced jet training and close air support aircraft developed by **Turkish Aerospace**, will further enhance safety standards in the Turkish aviation industry.
+
+Through simulation-based development and modeling, **HÜRJET** pilots will benefit from a system that automatically intervenes when they encounter hazardous situations, thereby improving flight safety.
+
+## Resources
+
+- The Python script **`run_GCAS_anim3d.py`**, essential for executing the simulation and generating outputs, has been uploaded.
+- The academic paper authored and published by **Turkish Aerospace Industries** is also available for reference.
+- Due to confidentiality agreements with **Turkish Aerospace Industries**, the complete simulation details have not been publicly disclosed.
+- In compliance with data protection protocols safeguarding personal information, the full thesis document of my undergraduate studies at **Istanbul Medipol University** is not publicly available.
+
+
